@@ -1203,7 +1203,8 @@
         "Left": "Sinistra",
         "Right": "Destra",
         "Saved for this organization and applied when you save settings.": "Salvata per questa organizzazione e applicata quando salvi le impostazioni.",
-        "Invalid sidebar position.": "Posizione della barra laterale non valida."
+        "Invalid sidebar position.": "Posizione della barra laterale non valida.",
+        "Organization, views and details in the sidebar.": "Organizzazione, viste e dettagli nella barra laterale."
       },
       "terms": {
         "Appearance repositories": "Repository di icone e temi",

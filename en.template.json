@@ -1199,7 +1199,8 @@
     "Left": "Left",
     "Right": "Right",
     "Saved for this organization and applied when you save settings.": "Saved for this organization and applied when you save settings.",
-    "Invalid sidebar position.": "Invalid sidebar position."
+    "Invalid sidebar position.": "Invalid sidebar position.",
+    "Organization, views and details in the sidebar.": "Organization, views and details in the sidebar."
   },
   "terms": {
     "Appearance repositories": "Appearance repositories",
