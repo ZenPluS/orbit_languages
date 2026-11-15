@@ -14,7 +14,7 @@ Refresh is manual, not an automatic startup request. The last valid download is 
 ## Contribute a translation
 
 1. Copy `en.template.json`. Set `code` (for example `de` or `pt-BR`), `name` (the native name shown in the selector), and `locale` (for example `de-DE`).
-2. Translate values, not keys. Keep placeholders such as `{0}`, guide formatting such as `**bold**` and backticks, and any HTML structure.
+2. Translate values, not keys. Use plain text, not HTML. Keep placeholders such as `{0}`, guide formatting such as `**bold**` and backticks.
 3. `messages` contains interface text; `terms` contains default names, demo data and guide text. `plurals` supports `zero`, `one`, `two`, `few`, `many` and the required `other` form. Keep `{0}` in counted messages.
 4. Add the entire language object to the `languages` array of `orbit-languages.json` and open a pull request.
 
